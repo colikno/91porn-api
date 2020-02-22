@@ -87,7 +87,7 @@ https://91povideo.com/api/list_info?category=&page=1
 
 | 描述     | 内容               |
 | -------- | ------------------ |
-| 接口功能 | 请求91porn视频列表 |
+| 接口功能 | 请求91porn视频详情 |
 | 请求协议 | HTTPS              |
 | 请求方法 | GET                |
 | 请求url  | video_info         |

@@ -1,5 +1,8 @@
 # 91Porn-crawler
 91porn爬虫在线api 及 在线web预览
+
+今日口令（每日21:00更新 ）|bd8e5,时效:1天,总次数:100|
+
 # Web版
 
  [91手机快捷站](https://91povideo.com)
@@ -152,9 +155,3 @@ https://91povideo.com/api/video_info?viewkey=b61b439af0d4ae20b0dd&userKey=abcde
 # 购买口令
 
 [购买口令](https://91povideo.com/#/buy)
-
-
-
-
-
-

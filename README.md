@@ -5,13 +5,14 @@
 
 # Web版
 
- [91手机快捷站](https://91povideo.com)
+ [91手机快捷站](https://ayay.pw)
 
 今日口令（每日21:00更新 ）**2a9d6**,时效:1天,总次数:1000
 
 # API版接口 
 
-接口baseUrl: https://91povideo.com/api/
+接口baseUrl: https://91povideo.com/api/ (已被GFW屏蔽)
+备用1： https://ayay.pw/api/
 
 
 ## 接口：获取视频列表
@@ -154,4 +155,4 @@ https://91povideo.com/api/video_info?viewkey=b61b439af0d4ae20b0dd&userKey=abcde
 
 # 购买口令
 
-[购买口令](https://91povideo.com/#/buy)
+[购买口令](https://ayay.pw/#/buy)

@@ -5,14 +5,15 @@
 
 # Web版
 
- [91手机快捷站](https://ayay.pw)
+ 最新地址：[https://byby.pw](https://byby.pw)
 
 今日口令（每日21:00更新 ）**26a8b**,时效:1天,总次数:1000
 
 # API版接口 
 
-接口baseUrl: https://91povideo.com/api/ (已被GFW屏蔽)
-备用1： https://ayay.pw/api/
+接口baseUrl: https://91povideo.com/api/ (已被GFW屏蔽)  
+备用1： https://ayay.pw/api/  
+备用2： https://byby.pw/api/ 
 
 
 ## 接口：获取视频列表

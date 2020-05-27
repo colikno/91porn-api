@@ -1,11 +1,7 @@
 # 91Porn-crawler
 91porn爬虫在线api 及 在线web预览
 
-
-
-# Web版
-
- 最新地址：[https://byby.pw](https://byby.pw)
+**最新地址**：[https://byby.pw](https://byby.pw)
 
 今日口令（每日21:00更新 ）**26a8b**,时效:1天,总次数:1000
 
@@ -156,4 +152,4 @@ https://91povideo.com/api/video_info?viewkey=b61b439af0d4ae20b0dd&userKey=abcde
 
 # 购买口令
 
-[购买口令](https://ayay.pw/#/buy)
+[购买口令](https://byby.pw/#/buy)
